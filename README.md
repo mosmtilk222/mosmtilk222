@@ -6,7 +6,7 @@
 Skills learned
 - Python
 - Web scraping with the module requests and lxml
-- FastApi Backend 
-- Basic pandas and data visualization with bokeh
+- Data analysis and data science 
+- Pandas and data visualization 
 
 ## **Enjoying the learning path**
