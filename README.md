@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning backend development and data science skills
 - 📫 How to reach me? acuetopea@gmail.com
 
-Skills learned
+Skills 
 - Python
-- Web scraping with the module requests and lxml
+- Web scraping 
 - Data analysis and data science 
 - Pandas and data visualization 
 
