@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mosmtilk222 and my real name is Aldo 
-- 👀 I’m interested in backend and Data Science
-- 🌱 I’m currently learning backend development and data science skills
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently more data science skills and getting my degree in aerospace engineering
 - 📫 How to reach me? acuetopea@gmail.com
 
 Skills 
